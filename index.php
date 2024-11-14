@@ -102,7 +102,7 @@
             <span class="text-xl font-light font-serif">Tools of the trade
             </span>
 
-            <h2 class="text-4xl tracking-wide">THE CARPENTER’S CORNER</h2>
+            <h2 class="text-4xl tracking-wide">INTERIOR DESIGN</h2>
 
         </div>
 
